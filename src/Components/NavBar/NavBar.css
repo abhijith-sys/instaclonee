@@ -1,0 +1,16 @@
+
+.logo{
+    
+    width: 80px;
+}
+.navbar{
+  position:sticky;
+  top:0;
+  z-index: 1;
+  display: flex;
+  color: white;
+  object-fit: contain;
+  padding: 5px;
+  background-color:  #181818;   
+  justify-content: space-between;
+}

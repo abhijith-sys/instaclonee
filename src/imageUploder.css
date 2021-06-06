@@ -1,0 +1,27 @@
+.imageuploder{
+   bottom: 0;
+   display: flex;
+   flex-direction: column;
+   width: 100%;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 10px;
+   margin-bottom: 10px; 
+   background-color:  #181818; 
+   color: white;
+   align-items: center;
+}
+.imageuploadprogress{
+   width: 100%;
+   
+}
+
+.buttonstyle{
+  
+ border-radius: 2em;
+ color:white;
+ padding:0.3em 1.2em;
+ margin: 5px;
+ background-color:#212121
+ ;
+}
